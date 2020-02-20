@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: darkviolet;
+}
+#submit {
+  background-color: limegreen;
+}
+
+.jumbotron {
+  width: 298px;
+  height: 280px;
+  background-color: #fff;
+  padding: 15px;
+}
+.card {
+  border: none;
+}
+
+.card-body {
+  padding: 10px 0;
+}
+
+hr {
+  width: 70%;
+}
+
+.input-group {
+  /* position: relative;
+  display: table;
+  border-collapse: separate; */
+}
+
+.form-group {
+  /* width: 100%;
+  display: flex;
+  justify-content: center; */
+}
+
+.input-group-addon {
+  /* width: 35px;
+  height: 35px;
+  display: table-cell;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1;
+  color: #555555;
+  text-align: center;
+  background-color: #eeeeee;
+  border: 1px solid #cccccc !important;
+  border-radius: 4px;
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle; */
+}
+
+.form-control {
+  /* display: table-cell; */
+  /* width: 228px;
+  height: 35px; */
+  /* padding: 6px 12px; */
+}

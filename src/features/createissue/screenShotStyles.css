@@ -1,0 +1,23 @@
+.imageWrapper {
+  background: white;
+  width: 400px;
+  height: 200px;
+}
+#exampleText {
+  margin: 10px 0 10px 0;
+  height: 28px;
+  font-weight: bold;
+  font-size: 12px;
+}
+#exampleTextAria {
+  height: 123px;
+  margin: 10px 0 10px 0;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.optionWrapper {
+  display: flex;
+  font-size: 12px;
+  font-weight: bold;
+}
